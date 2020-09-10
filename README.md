@@ -12,7 +12,7 @@ Up to this point, you've gotten your feet wet by working on a bunch of small Pyt
 * Put your Python basics into practice by implementing a text adventure game
 
 * Practice writing code that conforms to a specification
-
+  making a change
 
 ## MVP
 
