@@ -11,6 +11,8 @@ class Room:
 
     def add_item(self, new_item):
         self.inventory.append(new_item)
+        return self
 
     def remove_item(self, old_item):
         self.inventory.remove(old_item)
+        return self
